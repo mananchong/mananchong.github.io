@@ -7,4 +7,4 @@ This is a [hugo](http://gohugo.io/) [academic](https://sourcethemes.com/academic
 
 * Create a new post bundle with `hugodown::use_post('post/short-title')`.
 
-[http://gohugo.io](http://gohugo.io/)
+[https://mananchong.github.io](https://mananchong.github.io/)
