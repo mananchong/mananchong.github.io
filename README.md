@@ -6,5 +6,3 @@ This is a [hugo](http://gohugo.io/) [academic](https://sourcethemes.com/academic
   update (navigating to the latest change) as you modify `content/`.
 
 * Create a new post bundle with `hugodown::use_post('post/short-title')`.
-
-[https://mananchong.github.io](https://mananchong.github.io/)
